@@ -1,7 +1,5 @@
 # Tech company mantras
-====================
-
-A list of mantras of technology companies
+*A list of mantras of technology companies*
 
 ### Apple:
 > Think different
